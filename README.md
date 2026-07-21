@@ -9,7 +9,7 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nginx,react,nextjs,mongodb,postgres,elasticsearch,docker,vim,html,css,nodejs,vue,flutter,vite,git,postman,go,graphql,redis,linux&perline=4&theme=light" />
+  <img src="https://skillicons.dev/icons?i=apple,java,go,ts,html,css,nginx,redis,vite,nextjs,nodejs,react,vue,flutter,spring,mongodb,postgres,elasticsearch,docker,vim,git,postman,graphql,linux&perline=6&theme=light" />
 </p>
 <hr>
 
