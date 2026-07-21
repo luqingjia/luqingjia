@@ -7,49 +7,50 @@
 <hr>
 
 <!--语言与工具图标-->
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=java,go,ts,py,rust&perline=5&theme=light" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Frontend</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,vite,pinia&perline=7&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,spring,graphql&perline=3&theme=light" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Database & Search</strong><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&perline=5&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>DevOps & Infrastructure</strong><br>
+      <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,jenkins,linux&perline=5&theme=light" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,postman,maven,npm,apple&perline=8&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Mobile</strong><br>
+      <img src="https://skillicons.dev/icons?i=flutter&perline=1&theme=light" />
+    </td>
+    <td align="center" width="50%">
+      <strong>AI / Computer Vision</strong><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=2&theme=light" />
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">Tech Stack</h2>
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,ts,py,rust&perline=12&theme=light" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,vite,pinia&perline=12&theme=light" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,graphql&perline=12&theme=light" />
-</p>
-
-<h3 align="center">Mobile</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter&perline=12&theme=light" />
-</p>
-
-<h3 align="center">Database & Search</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&perline=12&theme=light" />
-</p>
-
-<h3 align="center">DevOps & Infrastructure</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,jenkins,linux&perline=12&theme=light" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,postman,maven,npm,apple&perline=12&theme=light" />
-</p>
-
-<h3 align="center">AI / Computer Vision</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=12&theme=light" />
-</p>
 <hr>
 
 <!--贪吃蛇-->
