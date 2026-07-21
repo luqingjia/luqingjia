@@ -15,33 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- <div align="center">
-    <img
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs?
-      username=luqingjia&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;text_color=00
-      0&amp;icon_color=fff&amp;bg_color=0,52fa5a,4dfcff,c64dff&amp;theme=graywhite"
-    />
-  </div> -->
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/luqingjia/count.svg" alt="Visitor's Count" />
-</div>
-
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,elasticsearch,docker,vim" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,react,git,postman,go,graphql,redis,linux" />
 </p>
 
 <hr>
-
-<img src="https://github.com/luqingjia/luqingjia/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/snake-dark.svg">
