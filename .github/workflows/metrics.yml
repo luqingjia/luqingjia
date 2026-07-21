@@ -32,4 +32,4 @@ jobs:
           filename: metrics.plugin.stars.svg
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 8
+          plugin_stars_limit: 4
