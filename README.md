@@ -9,8 +9,46 @@
 <!--语言与工具图标-->
 ## 🛠️ Languages and Tools
 
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,java,go,ts,html,css,nginx,redis,vite,nextjs,nodejs,react,vue,flutter,spring,mongodb,postgres,elasticsearch,docker,vim,git,postman,graphql,linux&perline=12&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,go,ts,py,rust&perline=12&theme=light" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,vite,pinia&perline=12&theme=light" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,graphql&perline=12&theme=light" />
+</p>
+
+<h3 align="center">Mobile</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter&perline=12&theme=light" />
+</p>
+
+<h3 align="center">Database & Search</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&perline=12&theme=light" />
+</p>
+
+<h3 align="center">DevOps & Infrastructure</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,jenkins,linux&perline=12&theme=light" />
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,postman,maven,npm,apple&perline=12&theme=light" />
+</p>
+
+<h3 align="center">AI / Computer Vision</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=12&theme=light" />
 </p>
 <hr>
 
