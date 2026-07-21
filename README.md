@@ -4,10 +4,11 @@
 <p align="left">
   <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
 </p>
+<hr>
 
 <!--语言与工具图标-->
 ## 🛠️ Languages and Tools
-<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple,java,go,ts,html,css,nginx,redis,vite,nextjs,nodejs,react,vue,flutter,spring,mongodb,postgres,elasticsearch,docker,vim,git,postman,graphql,linux&perline=12&theme=light" />
 </p>
@@ -19,6 +20,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./.github/assets/snake.svg">
   <img alt="snake" src="./.github/assets/snake.svg">
 </picture>
+<hr>
 
 <!--横向图标-->
 <p align="left">
@@ -48,6 +50,7 @@
       <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />
     </a>
 </p>
+<hr>
 
 <!--最近4个star-->
 <p align="left">
