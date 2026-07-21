@@ -6,7 +6,7 @@
 </p>
 <!--star list的语言-->
 <p align="right">
-  <img src="./metrics.plugin.starlists.languages.svg" alt="Star lists languages"  width="420"/>
+  <img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
 </p>
 
 <!--语音与工具图标-->
