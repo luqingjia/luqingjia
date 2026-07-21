@@ -31,17 +31,18 @@
     <a>
       <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald%27s&logoColor=white" />
     </a>
+    <!--steam的网页跳转：href=""-->
     <a>
-      <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>
     <a>
       <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
     </a>
     <a>
-      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+      <img src="https://img.shields.io/badge/cd%20projekt-DC0D15?style=for-the-badge&logo=cdprojekt&logoColor=white" />
     </a>
     <a>
-      <img src="https://img.shields.io/badge/cd%20projekt-DC0D15?style=for-the-badge&logo=cdprojekt&logoColor=white" />
+      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
     </a>
     <a>
       <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />
