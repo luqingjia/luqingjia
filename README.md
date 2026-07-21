@@ -1,5 +1,28 @@
 ## Hi there 👋 I'am LuQingJia
 
+<!--命令行介绍-->
+<p align="center">
+  <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
+</p>
+
+<!--语音与工具图标-->
+## 🛠️ Languages and Tools
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nginx,react,nextjs,mongodb,postgres,elasticsearch,docker,vim" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,vite,git,postman,go,graphql,redis,linux" />
+</p>
+<hr>
+
+<!--贪吃蛇-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/snake.svg">
+  <img alt="snake" src="./.github/assets/snake.svg">
+</picture>
+
+
+
 <!--
 **luqingjia/luqingjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,20 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nginx,react,nextjs,mongodb,postgres,elasticsearch,docker,vim" />
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,vite,git,postman,go,graphql,redis,linux" />
-</p>
-
-<hr>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/snake.svg">
-  <img alt="snake" src="./.github/assets/snake.svg">
-</picture>
