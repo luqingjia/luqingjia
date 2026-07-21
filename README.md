@@ -1,7 +1,7 @@
 ## Hi there 👋 I'am LuQingJia
 
 <!--命令行介绍-->
-<p align="center">
+<p align="left">
   <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
 </p>
 
