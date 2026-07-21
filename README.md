@@ -4,6 +4,10 @@
 <p align="left">
   <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
 </p>
+<!--star list的语言-->
+<p align="right">
+  <img src="./metrics.plugin.starlists.languages.svg" alt="Star lists languages"  width="420"/>
+</p>
 
 <!--语音与工具图标-->
 ## 🛠️ Languages and Tools
