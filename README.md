@@ -4,10 +4,6 @@
 <p align="left">
   <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
 </p>
-<!--star list的语言-->
-<p align="right">
-  <img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
-</p>
 
 <!--语音与工具图标-->
 ## 🛠️ Languages and Tools
@@ -25,7 +21,10 @@
   <img alt="snake" src="./.github/assets/snake.svg">
 </picture>
 
-
+<!--最近4个star-->
+<p align="center">
+  <img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
+</p>
 
 <!--
 **luqingjia/luqingjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
