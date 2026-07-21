@@ -20,11 +20,6 @@
   <img alt="snake" src="./.github/assets/snake.svg">
 </picture>
 
-<!--最近4个star-->
-<p align="left">
-  <img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
-</p>
-
 <!--横向图标-->
 <p align="left">
     <a href="mailto:s48421032@gmail.com">
@@ -39,7 +34,14 @@
     <a>
       <img src="https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white" />
     </a>
-  </p>
+</p>
+
+<!--最近4个star-->
+<p align="left">
+  <img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
+</p>
+
+
 
 <!--
 **luqingjia/luqingjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
