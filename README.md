@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'am LuQingJia
 
 <!--
 **luqingjia/luqingjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,elasticsearch,docker,vim" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nginx,react,nextjs,mongodb,postgres,elasticsearch,docker,vim" />
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,vite,git,postman,go,graphql,redis,linux" />
 </p>
 
