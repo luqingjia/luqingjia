@@ -12,7 +12,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=java,go,c,,js,ts,py,rust&perline=5&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java,go,c,js,ts,py,rust&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>Frontend</strong><br>
@@ -32,11 +32,11 @@
   <tr>
     <td align="center" width="50%">
       <strong>DevOps & Infrastructure</strong><br>
-      <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,jenkins,linux,bsd&perline=5&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nginx,kafka,rabbitmq,docker,kubernetes,jenkins,linux,bsd&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,sublime,postman,maven,npm,apple&perline=8&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,sublime,postman,maven,npm,apple,windows&perline=8&theme=light" />
     </td>
   </tr>
   <tr>
