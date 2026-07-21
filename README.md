@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center">
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs?
+      username=luqingjia&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;text_color=00
+      0&amp;icon_color=fff&amp;bg_color=0,52fa5a,4dfcff,c64dff&amp;theme=graywhite"
+    />
+  </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/snake-dark.svg">
