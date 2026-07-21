@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,elasticsearch,docker,vim" />
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,react,git,postman,go,graphql,redis,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,vite,git,postman,go,graphql,redis,linux" />
 </p>
 
 <hr>
