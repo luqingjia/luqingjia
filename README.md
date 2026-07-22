@@ -3,7 +3,7 @@
 💻 Backend Developer <br>
 🚀 Currently transitioning into a Full-Stack Developer <br>
 🌱 Learning frontend engineering, full-stack architecture, and AI-powered development tools <br>
-🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps
+🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps <br>
 ✉️ Email: s48421032@gmail.com
 <!--命令行介绍-->
 <p align="left">
