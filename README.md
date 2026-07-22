@@ -10,13 +10,13 @@
 ## 🛠️ Tech Stack
 <table align="center">
   <tr>
-    <!-- Languages -->
+   
     <td align="center" width="50%">
       <strong>Languages</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=java,golang,c,javascript,typescript,python,rust,lua,swift,toml&perline=10&theme=light" />
     </td>
 
-    <!-- Frontend -->
+    
     <td align="center" width="50%">
       <strong>Frontend</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,vue,nextjs,vite,pinia,antdesign,flutter,tauri&perline=10&theme=light" />
@@ -24,13 +24,13 @@
   </tr>
 
   <tr>
-    <!-- Backend -->
+    
     <td align="center" width="50%">
       <strong>Backend</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,spring,tomcat,graphql,gin,fastapi,langchain&perline=10&theme=light" />
     </td>
 
-    <!-- Middleware -->
+   
     <td align="center" width="50%">
       <strong>Middleware</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,redis,elasticsearch,rocketmq,nacos,swagger,dubbo,kafka,rabbitmq,etcd,sentinel,neo4j,milvus&perline=10&theme=light" />
@@ -38,13 +38,13 @@
   </tr>
 
   <tr>
-    <!-- Database -->
+  
     <td align="center" width="50%">
       <strong>Database</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,mysql,cassandra,sqlite,mongodb,duckdb,tidb&perline=10&theme=light" />
     </td>
 
-    <!-- DevOps -->
+   
     <td align="center" width="50%">
       <strong>DevOps</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=podman,docker,kubernetes,k3s,ollama,jenkins,systemd,prometheus&perline=10&theme=light" />
@@ -52,13 +52,13 @@
   </tr>
 
   <tr>
-    <!-- Cloud Services -->
+ 
     <td align="center" width="50%">
       <strong>Cloud Services</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,snowflake,oracle&perline=10&theme=light" />
     </td>
 
-    <!-- Tools -->
+  
     <td align="center" width="50%">
       <strong>Tools</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitea,github,gitlab,vim,vscode,idea,tmux,vmwareworkstation,vercel,postman,maven,npm,pnpm,ffmpeg&perline=10&theme=light" />
@@ -66,13 +66,13 @@
   </tr>
 
   <tr>
-    <!-- AI -->
+  
     <td align="center" width="50%">
       <strong>AI</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor,chatgpt,grok,claude&perline=10&theme=light" />
     </td>
 
-    <!-- OS -->
+   
     <td align="center" width="50%">
       <strong>OS</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=macos,windows,linux,ubuntu,centos,redhat,fedora,bsd&perline=10&theme=light" />
