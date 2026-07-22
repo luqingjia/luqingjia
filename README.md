@@ -1,4 +1,9 @@
-## Hi there 👋 I'am LuQingJia
+## 👋 Hi there, I'm LuQingJia
+
+💻 Backend Developer
+🚀 Currently transitioning into a Full-Stack Developer
+🌱 Learning frontend engineering, full-stack architecture, and AI-powered development tools
+🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps
 
 <!--命令行介绍-->
 <p align="left">
