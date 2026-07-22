@@ -4,7 +4,7 @@
 🚀 Currently transitioning into a Full-Stack Developer <br>
 🌱 Learning frontend engineering, full-stack architecture, and AI-powered development tools <br>
 🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps
-
+✉️ Email: s48421032@gmail.com
 <!--命令行介绍-->
 <p align="left">
   <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
