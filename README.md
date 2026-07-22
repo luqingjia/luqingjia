@@ -1,14 +1,22 @@
-## 👋 Hi there, I'm LuQingJia(Ken)
+<!--个人介绍：左侧 65%，终端图右侧 35%-->
+<img
+  align="right"
+  width="35%"
+  src="./metrics.terminal.svg"
+  alt="GitHub Metrics"
+/>
 
-💻 Backend Developer <br>
-🚀 Currently transitioning into a Full-Stack Developer <br>
-🌱 Learning frontend engineering, full-stack architecture, and AI-powered development tools <br>
-🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps <br>
-✉️ Email: s48421032@gmail.com
-<!--命令行介绍-->
-<p align="left">
-  <img src="./metrics.terminal.svg" alt="GitHub Metrics" width="600" />
+<h2>👋 Hi there, I'm LuQingJia (Ken)</h2>
+
+<p>
+  💻 Backend Developer<br>
+  🚀 Currently transitioning into a Full-Stack Developer<br>
+  🌱 Learning frontend engineering, full-stack architecture, and AI-powered development tools<br>
+  🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps<br>
+  ✉️ Email: <a href="mailto:s48421032@gmail.com">s48421032@gmail.com</a>
 </p>
+
+<br clear="both">
 <hr>
 
 <!--语言与工具图标-->
