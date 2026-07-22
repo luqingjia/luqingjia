@@ -2,7 +2,7 @@
 <h2>👋 Hi there, I'm LuQingJia (Ken)</h2>
 <img
   align="right"
-  width="40%"
+  width="47%"
   src="./metrics.terminal.svg"
   alt="GitHub Metrics"
 />
