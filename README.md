@@ -12,41 +12,64 @@
   <tr>
     <td align="center" width="50%">
       <strong>Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=java,go,c,js,ts,py,rust&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=java,golang,c,js,ts,py,rust,lua,swift,toml&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>Frontend</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,vite,pinia&perline=7&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=html,css,react,vue,nextjs,vite,pinia,tauri&perline=5&theme=light" />
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
       <strong>Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,graphql&perline=3&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=nodejs,spring,tomcat,swagger,graphql,gin,fastapi,dubbo&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
-      <strong>Database & Search</strong><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra,sqlite,mongodb,redis,elasticsearch&perline=5&theme=light" />
+      <strong>Middleware</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=redis,elasticsearch,rocketmq,nacos,kafka,rabbitmq,sentinel,neo4j,milvus&perline=5&theme=light" />
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
-      <strong>DevOps & Infrastructure</strong><br>
-      <img src="https://skillicons.dev/icons?i=nginx,kafka,rabbitmq,docker,kubernetes,jenkins,linux,bsd&perline=5&theme=light" />
+      <strong>Database</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=mysql,postgres,cassandra,sqlite,mongodb,duckdb,tidb&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
-      <strong>Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,sublime,postman,maven,npm,apple,windows&perline=8&theme=light" />
+      <strong>DevOps</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=nginx,docker,kubernetes,jenkins,podman,systemd,prometheus,linux,redhat,bsd,macos,windows&perline=5theme=light
+      " />
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <strong>Tools</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?
+      i=git,vim,vscode,idea,postman,maven,npm,pnpm,ffmpeg,githubcopilot,cursor,chatgpt,grok,claude&perline=5theme=lig
+      ht" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Cloud Services</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,lambda&perline=5&theme=light" />
+    </td>
+  </tr>
+
   <tr>
     <td align="center" width="50%">
       <strong>Mobile</strong><br>
-      <img src="https://skillicons.dev/icons?i=flutter&perline=1&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,android,apple&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
-      <strong>AI / Computer Vision</strong><br>
-      <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=2&theme=light" />
+      <strong>AI</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,numpy,langchain&perline=5theme=light" />
     </td>
   </tr>
 </table>
