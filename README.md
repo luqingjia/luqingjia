@@ -10,50 +10,64 @@
 ## 🛠️ Tech Stack
 <table align="center">
   <tr>
+    <!--语言-->
     <td align="center" width="50%">
       <strong>Languages</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=java,golang,c,javascript,typescript,python,rust,lua,swift,toml&perline=10&theme=light" />
     </td>
+    <!--前端-->
     <td align="center" width="50%">
       <strong>Frontend</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,vue,nextjs,vite,pinia,antdesign,flutter,tauri&perline=10&theme=light" />
     </td>
   </tr>
   <tr>
+    <!--后端-->
     <td align="center" width="50%">
       <strong>Backend</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,spring,tomcat,graphql,gin,fastapi,langchain&perline=10&theme=light" />
     </td>
+    
+    <!--中间件-->
     <td align="center" width="50%">
       <strong>Middleware</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,redis,elasticsearch,rocketmq,nacos,swagger,dubbo,kafka,rabbitmq,etcd,sentinel,neo4j,milvus&perline=10&theme=light" />
     </td>
   </tr>
+
+  <!--数据库-->
   <tr>
     <td align="center" width="50%">
       <strong>Database</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,mysql,cassandra,sqlite,mongodb,duckdb,tidb&perline=10&theme=light" />
     </td>
+
+    <!--运维-->
     <td align="center" width="50%">
       <strong>DevOps</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=podman,docker,kubernetes,k3s,ollama,jenkins,systemd,prometheus&perline=10&theme=light" />
     </td>
   </tr>
+  
+  <!--云服务-->
   <tr>
     <td align="center" width="50%">
       <strong>Cloud Services</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,lambda,snowflake,oracle&perline=10&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,snowflake,oracle&perline=10&theme=light" />
     </td>
+    <!--工具-->
     <td align="center" width="50%">
       <strong>Tools</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitea,github,gitlab,vim,vscode,idea,tmux,vmwareworkstation,vercel,postman,maven,npm,pnpm,ffmpeg&perline=10&theme=light" />
     </td>
   </tr>
   <tr>
+    <!--ai工具-->
     <td align="center" width="50%">
       <strong>AI</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor,chatgpt,grok,claude&perline=10&theme=light" />
     </td>
+    <!--操作系统-->
     <td align="center" width="50%">
       <strong>OS</strong><br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=macos,windows,linux,ubuntu,centos,redhat,fedora,bsd&perline=10&theme=light" />
