@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>Cloud Services</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,lambda,snowflake,oracle&perline=10&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,snowflake,oracle&perline=10&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>Tools</strong><br>
