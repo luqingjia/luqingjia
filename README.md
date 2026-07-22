@@ -12,68 +12,54 @@
   <tr>
     <td align="center" width="50%">
       <strong>Languages</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=java,golang,c,js,ts,py,rust,lua,swift,toml&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,golang,c,javascript,typescript,python,rust,lua,swift,toml&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>Frontend</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=html,css,react,vue,nextjs,vite,pinia,tauri&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,vue,nextjs,vite,pinia,antdesign,flutter,tauri&perline=5&theme=light" />
     </td>
   </tr>
-
   <tr>
     <td align="center" width="50%">
       <strong>Backend</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=nodejs,spring,tomcat,swagger,graphql,gin,fastapi,dubbo&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,spring,tomcat,graphql,gin,fastapi,langchain&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>Middleware</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=redis,elasticsearch,rocketmq,nacos,kafka,rabbitmq,sentinel,neo4j,milvus&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,redis,elasticsearch,rocketmq,nacos,swagger,dubbo,kafka,rabbitmq,etcd,sentinel,neo4j,milvus&perline=5&theme=light" />
     </td>
   </tr>
-
   <tr>
     <td align="center" width="50%">
       <strong>Database</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=mysql,postgres,cassandra,sqlite,mongodb,duckdb,tidb&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,mysql,cassandra,sqlite,mongodb,duckdb,tidb&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>DevOps</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=nginx,docker,kubernetes,jenkins,podman,systemd,prometheus,linux,redhat,bsd,macos,windows&perline=5theme=light
-      " />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=podman,docker,kubernetes,k3s,ollama,jenkins,systemd,prometheus&perline=5&theme=light" />
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="50%">
-      <strong>Tools</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?
-      i=git,vim,vscode,idea,postman,maven,npm,pnpm,ffmpeg,githubcopilot,cursor,chatgpt,grok,claude&perline=5theme=lig
-      ht" />
-    </td>
     <td align="center" width="50%">
       <strong>Cloud Services</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,lambda&perline=5&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,lambda,snowflake,oracle&perline=5&theme=light" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Tools</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitea,github,gitlab,vim,vscode,idea,tmux,vmwareworkstation,vercel,postman,maven,npm,pnpm,ffmpeg&perline=5&theme=light" />
     </td>
   </tr>
-
   <tr>
     <td align="center" width="50%">
-      <strong>Mobile</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,android,apple&perline=5&theme=light" />
+      <strong>AI</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor,chatgpt,grok,claude&perline=5&theme=light" />
     </td>
     <td align="center" width="50%">
-      <strong>AI</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,numpy,langchain&perline=5theme=light" />
+      <strong>OS</strong><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=macos,windows,linux,ubuntu,centos,redhat,fedora,bsd&perline=4&theme=light" />
     </td>
   </tr>
 </table>
-
 <hr>
 
 <!--贪吃蛇-->
