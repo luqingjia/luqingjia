@@ -1,17 +1,15 @@
-<!--个人介绍：左侧 65%，终端图右侧 35%-->
+<!--个人介绍-->
+<h2>👋 Hi there, I'm LuQingJia (Ken)</h2>
 <img
   align="right"
-  width="35%"
+  width="40%"
   src="./metrics.terminal.svg"
   alt="GitHub Metrics"
 />
-
-<h2>👋 Hi there, I'm LuQingJia (Ken)</h2>
-
 <p>
   💻 Backend Developer<br>
   🚀 Currently transitioning into a Full-Stack Developer<br>
-  🌱 Learning frontend engineering, full-stack architecture, and AI-powered development tools<br>
+  🌱 Learning frontend engineering, full-stack architecture<br>
   🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps<br>
   ✉️ Email: <a href="mailto:s48421032@gmail.com">s48421032@gmail.com</a>
 </p>
@@ -113,10 +111,21 @@
 </p>
 <hr>
 
-<!--最近4个star-->
-<p align="left">
-  <img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
-</p>
+<!--最近 Star 与 Star List 语言统计-->
+  <p align="center">
+    <img
+      src="./metrics.plugin.stars.svg"
+      alt="Recently starred repositories"
+      width="49%"
+      align="top"
+    />
+    <img
+      src="./metrics.plugin.starlists.languages.svg"
+      alt="Star Lists Languages"
+      width="49%"
+      align="top"
+    />
+  </p>
 
 
 
