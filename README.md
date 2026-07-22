@@ -93,9 +93,9 @@
     <a>
       <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
     </a>
-    <a>
+    <!-- <a>
       <img src="https://img.shields.io/badge/cd%20projekt-DC0D15?style=for-the-badge&logo=cdprojekt&logoColor=white" />
-    </a>
+    </a> -->
     <a>
       <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
     </a>
