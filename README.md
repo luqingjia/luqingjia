@@ -93,7 +93,7 @@
       <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald%27s&logoColor=white" />
     </a>
     <!--steam的网页跳转：href=""-->
-    <a>
+    <a href="https://steamcommunity.com/profiles/76561199158138630/">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>
     <a>
