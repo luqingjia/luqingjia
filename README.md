@@ -11,6 +11,7 @@
   🚀 Currently transitioning into a Full-Stack Developer<br>
   🌱 Learning frontend engineering, full-stack architecture<br>
   🛠️ Focused on Java / Go / Spring Boot / Gin / Vue / React / DevOps<br>
+  ⚽ FC Barcelona fan (Visca el Barça!)<br>
   ✉️ Email: <a href="mailto:s48421032@gmail.com">s48421032@gmail.com</a>
 </p>
 
