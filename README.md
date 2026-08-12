@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="50%">
       <strong>Middleware</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,redis,elasticsearch,rocketmq,nacos,swagger,dubbo,kafka,rabbitmq,etcd,sentinel,neo4j,milvus&perline=10&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,redis,elasticsearch,nacos,etcd,swagger,dubbo,rocketmq,kafka,rabbitmq,sentinel,neo4j,milvus&perline=10&theme=light" />
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>AI</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor,chatgpt,grok,claude&perline=10&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,grok,githubcopilot,cursor&perline=10&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>OS</strong><br>
