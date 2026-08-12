@@ -44,7 +44,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>Database</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,mysql,cassandra,sqlite,mongodb,duckdb,tidb&perline=10&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,mysql,tidb,sqlite,cassandra,mongodb,duckdb&perline=10&theme=light" />
     </td>
     <td align="center" width="50%">
       <strong>DevOps</strong><br>
