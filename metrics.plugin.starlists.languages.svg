@@ -23,7 +23,7 @@
                                 </svg>
                                 Framework&amp;Language
                             </h2>
-                            <div class="count">114 repositories</div>
+                            <div class="count">115 repositories</div>
                             <div class="description">框架与语言</div>
                             <div class="languages">
                                 <div class="row">
@@ -54,7 +54,7 @@
                                                 Java
                                             </div>
                                             <small>
-                                                <div>28.95%</div>
+                                                <div>28.7%</div>
                                                 <div>33★</div>
                                             </small>
                                         </div>
@@ -66,7 +66,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>10.53%</div>
+                                                <div>10.43%</div>
                                                 <div>12★</div>
                                             </small>
                                         </div>
@@ -78,7 +78,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>9.65%</div>
+                                                <div>9.57%</div>
                                                 <div>11★</div>
                                             </small>
                                         </div>
@@ -90,7 +90,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>7.02%</div>
+                                                <div>6.96%</div>
                                                 <div>8★</div>
                                             </small>
                                         </div>
@@ -102,7 +102,7 @@
                                                 Kotlin
                                             </div>
                                             <small>
-                                                <div>2.63%</div>
+                                                <div>2.61%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -116,7 +116,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>11.4%</div>
+                                                <div>11.3%</div>
                                                 <div>13★</div>
                                             </small>
                                         </div>
@@ -128,7 +128,7 @@
                                                 C++
                                             </div>
                                             <small>
-                                                <div>10.53%</div>
+                                                <div>10.43%</div>
                                                 <div>12★</div>
                                             </small>
                                         </div>
@@ -140,7 +140,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>7.02%</div>
+                                                <div>6.96%</div>
                                                 <div>8★</div>
                                             </small>
                                         </div>
@@ -152,7 +152,7 @@
                                                 C
                                             </div>
                                             <small>
-                                                <div>3.51%</div>
+                                                <div>3.48%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -164,7 +164,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>1.75%</div>
+                                                <div>1.74%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -181,7 +181,7 @@
                                 </svg>
                                 Middleware
                             </h2>
-                            <div class="count">81 repositories</div>
+                            <div class="count">82 repositories</div>
                             <div class="description">中间件</div>
                             <div class="languages">
                                 <div class="row">
@@ -212,7 +212,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>25.93%</div>
+                                                <div>25.61%</div>
                                                 <div>21★</div>
                                             </small>
                                         </div>
@@ -224,7 +224,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>14.81%</div>
+                                                <div>14.63%</div>
                                                 <div>12★</div>
                                             </small>
                                         </div>
@@ -236,7 +236,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>8.64%</div>
+                                                <div>8.54%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -248,7 +248,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>1.23%</div>
+                                                <div>1.22%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -260,7 +260,7 @@
                                                 Swift
                                             </div>
                                             <small>
-                                                <div>1.23%</div>
+                                                <div>1.22%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -274,7 +274,7 @@
                                                 Java
                                             </div>
                                             <small>
-                                                <div>24.69%</div>
+                                                <div>24.39%</div>
                                                 <div>20★</div>
                                             </small>
                                         </div>
@@ -286,7 +286,7 @@
                                                 C
                                             </div>
                                             <small>
-                                                <div>9.88%</div>
+                                                <div>9.76%</div>
                                                 <div>8★</div>
                                             </small>
                                         </div>
@@ -298,7 +298,7 @@
                                                 C++
                                             </div>
                                             <small>
-                                                <div>7.41%</div>
+                                                <div>7.32%</div>
                                                 <div>6★</div>
                                             </small>
                                         </div>
@@ -310,7 +310,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>1.23%</div>
+                                                <div>1.22%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -322,7 +322,7 @@
                                                 Dart
                                             </div>
                                             <small>
-                                                <div>1.23%</div>
+                                                <div>1.22%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
